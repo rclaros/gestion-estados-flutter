@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:gestion_estado_flutter/provider_package/home_state.dart';
-import 'package:gestion_estado_flutter/provider_package/login_state.dart';
-import 'package:gestion_estado_flutter/provider_package/menu_page.dart';
-import 'package:gestion_estado_flutter/provider_package/total_widget.dart';
+import 'package:gestion_estados_flutter/provider_package/home_state.dart';
+import 'package:gestion_estados_flutter/provider_package/login_state.dart';
+import 'package:gestion_estados_flutter/provider_package/menu_page.dart';
+import 'package:gestion_estados_flutter/provider_package/total_widget.dart';
 import 'package:provider/provider.dart';
 
 class HomePage extends StatefulWidget {

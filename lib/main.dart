@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:gestion_estado_flutter/dont/login_page.dart' as dont;
-import 'package:gestion_estado_flutter/no_package/login_page.dart'
+import 'package:gestion_estados_flutter/dont/login_page.dart' as dont;
+import 'package:gestion_estados_flutter/no_package/login_page.dart'
     as no_package;
-import 'package:gestion_estado_flutter/provider_package/login_page.dart'
+import 'package:gestion_estados_flutter/provider_package/login_page.dart'
     as provider_package;
 
 void main() => runApp(MaterialApp(

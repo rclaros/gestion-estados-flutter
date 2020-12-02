@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:gestion_estado_flutter/no_package/home_page.dart';
+import 'package:gestion_estados_flutter/no_package/home_page.dart';
 
 class TotalWidget extends StatelessWidget {
   const TotalWidget({
