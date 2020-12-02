@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_state_management/no_package/login_page.dart';
+import 'package:gestion_estado_flutter/no_package/login_page.dart';
 
 class MenuPage extends StatelessWidget {
   const MenuPage({
@@ -13,7 +13,7 @@ class MenuPage extends StatelessWidget {
       padding: const EdgeInsets.all(30),
       children: <Widget>[
         FittedBox(
-          child: Text('Settings 1'),
+          child: Text('Setting'),
         ),
         Divider(
           thickness: 2,

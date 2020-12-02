@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_state_management/provider_package/home_state.dart';
+import 'package:gestion_estado_flutter/provider_package/home_state.dart';
 import 'package:provider/provider.dart';
 
 class TotalWidget extends StatelessWidget {

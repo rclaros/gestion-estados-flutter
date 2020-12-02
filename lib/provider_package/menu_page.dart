@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_state_management/provider_package/login_page.dart';
-import 'package:flutter_state_management/provider_package/login_state.dart';
+import 'package:gestion_estado_flutter/provider_package/login_page.dart';
+import 'package:gestion_estado_flutter/provider_package/login_state.dart';
 import 'package:provider/provider.dart';
 
 class MenuPage extends StatelessWidget {

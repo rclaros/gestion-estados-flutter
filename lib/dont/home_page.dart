@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_state_management/dont/login_page.dart';
-import 'package:flutter_state_management/dont/menu_page.dart';
-import 'package:flutter_state_management/dont/total_widget.dart';
+import 'package:gestion_estado_flutter/dont/login_page.dart';
+import 'package:gestion_estado_flutter/dont/menu_page.dart';
+import 'package:gestion_estado_flutter/dont/total_widget.dart';
 
 class HomePage extends StatefulWidget {
   final ValueChanged<bool> onThemeSelected;
